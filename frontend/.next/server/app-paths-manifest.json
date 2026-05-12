@@ -1,7 +1,9 @@
 {
-  "/page": "app/page.js",
-  "/dashboard/admin/page": "app/dashboard/admin/page.js",
   "/auth/login/page": "app/auth/login/page.js",
+  "/dashboard/patient/page": "app/dashboard/patient/page.js",
+  "/dashboard/patient/ai-recommend/page": "app/dashboard/patient/ai-recommend/page.js",
+  "/dashboard/admin/page": "app/dashboard/admin/page.js",
+  "/dashboard/admin/doctors/page": "app/dashboard/admin/doctors/page.js",
   "/dashboard/admin/reports/page": "app/dashboard/admin/reports/page.js",
-  "/dashboard/admin/doctors/page": "app/dashboard/admin/doctors/page.js"
+  "/dashboard/patient/book/page": "app/dashboard/patient/book/page.js"
 }
